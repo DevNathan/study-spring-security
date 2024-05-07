@@ -12,9 +12,9 @@
 1. [스프링 시큐리티란?](#1-스프링-시큐리티란)
 2. [어플리케이션단에서의 보안](#2-어플리케이션단에서의-보안)
     > 2-1. [HTTP는 무엇이 특징인가?](#2-1-HTTP는-무엇이-특징인가)<br>
-    > 2-2. [세션 하이재킹(Session Hijacking)](#2-2-세션-하이재킹(Session-Hijacking))<br>
-    > 2-3. [CSRF(Cross-Site Request Forgery)](#2-3-CSRF(Cross-Site-Request-Forgery))<br>
-    > 2-4. [토큰탈취](#토큰탈취)
+    > 2-2. [세션 하이재킹(Session Hijacking)](#2-2-세션-하이재킹Session-Hijacking)<br>
+    > 2-3. [CSRF(Cross-Site Request Forgery)](#2-3-csrfcross-site-request-forgery)<br>
+    > 2-4. [토큰탈취](#토큰탈취)<br>
     > 2-5. [비인가 데이터 수정](#2-5-비인가-데이터-수정)
 
 ***
